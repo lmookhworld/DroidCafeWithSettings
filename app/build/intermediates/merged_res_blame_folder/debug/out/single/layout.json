@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.droidcafewithsettings.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.example.droidcafewithsettings.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.droidcafewithsettings.app-mergeDebugResources-43:/layout/settings_activity.xml",
+        "source": "com.example.droidcafewithsettings.app-main-46:/layout/settings_activity.xml"
+    },
+    {
+        "merged": "com.example.droidcafewithsettings.app-mergeDebugResources-43:/layout/content_main.xml",
+        "source": "com.example.droidcafewithsettings.app-main-46:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.droidcafewithsettings.app-mergeDebugResources-43:/layout/activity_order.xml",
+        "source": "com.example.droidcafewithsettings.app-main-46:/layout/activity_order.xml"
+    }
+]
